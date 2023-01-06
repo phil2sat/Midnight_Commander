@@ -1,0 +1,10 @@
+Running suite(s): lib/search/glob
+Running suite lib/search/glob
+translate_replace_glob_to_regex.c:64:P:Core:test_translate_replace_glob_to_regex:0: Passed
+translate_replace_glob_to_regex.c:64:P:Core:test_translate_replace_glob_to_regex:1: Passed
+translate_replace_glob_to_regex.c:64:P:Core:test_translate_replace_glob_to_regex:2: Passed
+translate_replace_glob_to_regex.c:64:P:Core:test_translate_replace_glob_to_regex:3: Passed
+100%: Checks: 4, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 4, Failures: 0, Errors: 0
+PASS translate_replace_glob_to_regex (exit status: 0)

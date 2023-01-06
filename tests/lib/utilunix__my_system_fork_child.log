@@ -1,0 +1,3 @@
+Running suite(s): /lib/utilunix
+Running suite /lib/utilunix
+PASS utilunix__my_system_fork_child (exit status: 0)

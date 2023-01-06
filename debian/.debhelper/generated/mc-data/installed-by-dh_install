@@ -1,0 +1,13 @@
+debian/tmp/usr/share/locale
+debian/tmp/usr/share/man
+debian/tmp/usr/share/mc
+./debian/icons/MidnightCommander.png
+./debian/icons/mc.svg
+./debian/skins/modarin-1.2-thin/modarcon16-defbg-thin.ini
+./debian/skins/modarin-1.2-thin/modarcon16-thin.ini
+./debian/skins/modarin-1.2-thin/modarcon16root-defbg-thin.ini
+./debian/skins/modarin-1.2-thin/modarcon16root-thin.ini
+./debian/skins/modarin-1.2-thin/modarin256-defbg-thin.ini
+./debian/skins/modarin-1.2-thin/modarin256-thin.ini
+./debian/skins/modarin-1.2-thin/modarin256root-defbg-thin.ini
+./debian/skins/modarin-1.2-thin/modarin256root-thin.ini

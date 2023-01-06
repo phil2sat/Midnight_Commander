@@ -1,0 +1,13 @@
+Running suite(s): /lib/util
+Running suite /lib/util
+mc_realpath.c:85:P:Core:realpath_test:0: Passed
+mc_realpath.c:85:P:Core:realpath_test:1: Passed
+mc_realpath.c:85:P:Core:realpath_test:2: Passed
+mc_realpath.c:85:P:Core:realpath_test:3: Passed
+mc_realpath.c:85:P:Core:realpath_test:4: Passed
+mc_realpath.c:85:P:Core:realpath_test:5: Passed
+mc_realpath.c:85:P:Core:realpath_test:6: Passed
+100%: Checks: 7, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 7, Failures: 0, Errors: 0
+PASS mc_realpath (exit status: 0)

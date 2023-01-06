@@ -1,0 +1,15 @@
+Running suite(s): lib/search/glob
+Running suite lib/search/glob
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:0: Passed
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:1: Passed
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:2: Passed
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:3: Passed
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:4: Passed
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:5: Passed
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:6: Passed
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:7: Passed
+glob_translate_to_regex.c:84:P:Core:test_glob_translate_to_regex:8: Passed
+100%: Checks: 9, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 9, Failures: 0, Errors: 0
+PASS glob_translate_to_regex (exit status: 0)

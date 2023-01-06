@@ -1,0 +1,15 @@
+./debian/mc.desktop
+./debian/mcedit.desktop
+./debian/icons/mc.xpm
+./debian/icons/mcedit.xpm
+debian/tmp/usr/bin
+debian/tmp/usr/lib/mc
+debian/tmp/etc/mc/edit.indent.rc
+debian/tmp/etc/mc/filehighlight.ini
+debian/tmp/etc/mc/mc.default.keymap
+debian/tmp/etc/mc/mc.emacs.keymap
+debian/tmp/etc/mc/mc.ext
+debian/tmp/etc/mc/mc.keymap
+debian/tmp/etc/mc/mc.menu
+debian/tmp/etc/mc/mcedit.menu
+debian/tmp/etc/mc/sfs.ini

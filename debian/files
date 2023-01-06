@@ -1,0 +1,4 @@
+mc-data_4.8.28-1_all.deb utils optional
+mc-dbgsym_4.8.28-1_i386.deb debug optional automatic=yes
+mc_4.8.28-1_i386.buildinfo utils optional
+mc_4.8.28-1_i386.deb utils optional

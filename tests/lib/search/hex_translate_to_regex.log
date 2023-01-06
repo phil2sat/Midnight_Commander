@@ -1,0 +1,24 @@
+Running suite(s): lib/search/hex
+Running suite lib/search/hex
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:0: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:1: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:2: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:3: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:4: Passed
+hex_translate_to_regex.c:171:P:Core:test_hex_translate_to_regex:5: Passed
+hex_translate_to_regex.c:171:P:Core:test_hex_translate_to_regex:6: Passed
+hex_translate_to_regex.c:171:P:Core:test_hex_translate_to_regex:7: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:8: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:9: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:10: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:11: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:12: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:13: Passed
+hex_translate_to_regex.c:171:P:Core:test_hex_translate_to_regex:14: Passed
+hex_translate_to_regex.c:171:P:Core:test_hex_translate_to_regex:15: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:16: Passed
+hex_translate_to_regex.c:150:P:Core:test_hex_translate_to_regex:17: Passed
+100%: Checks: 18, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 18, Failures: 0, Errors: 0
+PASS hex_translate_to_regex (exit status: 0)

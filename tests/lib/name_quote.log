@@ -1,0 +1,17 @@
+Running suite(s): /lib/util
+Running suite /lib/util
+name_quote.c:65:P:Core:quote_percent_test:0: Passed
+name_quote.c:65:P:Core:quote_percent_test:1: Passed
+name_quote.c:108:P:Core:name_quote_test:0: Passed
+name_quote.c:108:P:Core:name_quote_test:1: Passed
+name_quote.c:108:P:Core:name_quote_test:2: Passed
+name_quote.c:108:P:Core:name_quote_test:3: Passed
+name_quote.c:108:P:Core:name_quote_test:4: Passed
+name_quote.c:108:P:Core:name_quote_test:5: Passed
+name_quote.c:108:P:Core:name_quote_test:6: Passed
+name_quote.c:108:P:Core:name_quote_test:7: Passed
+name_quote.c:108:P:Core:name_quote_test:8: Passed
+100%: Checks: 11, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 11, Failures: 0, Errors: 0
+PASS name_quote (exit status: 0)

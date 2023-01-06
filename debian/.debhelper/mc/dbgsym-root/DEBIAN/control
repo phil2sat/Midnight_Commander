@@ -1,0 +1,14 @@
+Package: mc-dbgsym
+Source: mc
+Version: 3:4.8.28-1
+Auto-Built-Package: debug-symbols
+Architecture: i386
+Maintainer: Dmitry Smirnov <onlyjob@debian.org>
+Installed-Size: 1417
+Depends: mc (= 3:4.8.28-1)
+Breaks: mc-dbg (<< 3:4.8.17~)
+Replaces: mc-dbg (<< 3:4.8.17~)
+Section: debug
+Priority: optional
+Description: debug symbols for mc
+Build-Ids: 436959fd0ac5d9d950b9a8a24271b72765ce081f 67fe90e7f1187493012589c9b5c355d54f12247e

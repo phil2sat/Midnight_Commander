@@ -1,0 +1,7 @@
+Running suite(s): lib/library_independ
+Running suite lib/library_independ
+library_independ.c:33:P:Core:test_library_independ:0: Passed
+100%: Checks: 1, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 1, Failures: 0, Errors: 0
+PASS library_independ (exit status: 0)

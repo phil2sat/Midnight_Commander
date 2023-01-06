@@ -1,0 +1,17 @@
+Running suite(s): lib/search/regex
+Running suite lib/search/regex
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:0: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:1: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:2: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:3: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:4: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:5: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:6: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:7: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:8: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:9: Passed
+regex_process_escape_sequence.c:115:P:Core:test_regex_process_escape_sequence:10: Passed
+100%: Checks: 11, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 11, Failures: 0, Errors: 0
+PASS regex_process_escape_sequence (exit status: 0)

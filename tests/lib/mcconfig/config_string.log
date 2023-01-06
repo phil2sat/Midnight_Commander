@@ -1,0 +1,14 @@
+Running suite(s): lib/mcconfig
+Running suite lib/mcconfig
+config_string.c:169:P:Core:test_create_ini_file_paths:0: Passed
+config_string.c:169:P:Core:test_create_ini_file_paths:1: Passed
+config_string.c:169:P:Core:test_create_ini_file_paths:2: Passed
+config_string.c:169:P:Core:test_create_ini_file_paths:3: Passed
+config_string.c:169:P:Core:test_create_ini_file_paths:4: Passed
+config_string.c:169:P:Core:test_create_ini_file_paths:5: Passed
+config_string.c:169:P:Core:test_create_ini_file_paths:6: Passed
+config_string.c:209:P:Core:emulate__learn_save:0: Passed
+100%: Checks: 8, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 8, Failures: 0, Errors: 0
+PASS config_string (exit status: 0)

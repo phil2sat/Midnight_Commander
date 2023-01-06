@@ -1,0 +1,30 @@
+Running suite(s): lib/mcconfig
+Running suite lib/mcconfig
+user_configs_path.c:180:P:Core:test_user_config_paths:0: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:1: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:2: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:3: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:4: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:5: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:6: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:7: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:8: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:9: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:10: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:11: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:12: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:13: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:14: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:15: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:16: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:17: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:18: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:19: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:20: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:21: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:22: Passed
+user_configs_path.c:180:P:Core:test_user_config_paths:23: Passed
+100%: Checks: 24, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 24, Failures: 0, Errors: 0
+PASS user_configs_path (exit status: 0)

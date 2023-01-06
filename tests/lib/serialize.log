@@ -1,0 +1,21 @@
+Running suite(s): /lib
+Running suite /lib
+serialize.c:86:P:Core:test_serialize:0: Passed
+serialize.c:86:P:Core:test_serialize:1: Passed
+serialize.c:165:P:Core:test_deserialize_incorrect:0: Passed
+serialize.c:165:P:Core:test_deserialize_incorrect:1: Passed
+serialize.c:165:P:Core:test_deserialize_incorrect:2: Passed
+serialize.c:165:P:Core:test_deserialize_incorrect:3: Passed
+serialize.c:165:P:Core:test_deserialize_incorrect:4: Passed
+serialize.c:197:P:Core:test_deserialize:0: Passed
+serialize.c:197:P:Core:test_deserialize:1: Passed
+serialize.c:248:P:Core:test_serialize_config:0: Passed
+serialize.c:303:P:Core:test_deserialize_config_incorrect:0: Passed
+serialize.c:303:P:Core:test_deserialize_config_incorrect:1: Passed
+serialize.c:303:P:Core:test_deserialize_config_incorrect:2: Passed
+serialize.c:303:P:Core:test_deserialize_config_incorrect:3: Passed
+serialize.c:348:P:Core:test_deserialize_config:0: Passed
+100%: Checks: 15, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 15, Failures: 0, Errors: 0
+PASS serialize (exit status: 0)

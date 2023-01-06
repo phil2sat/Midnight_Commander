@@ -1,0 +1,13 @@
+Running suite(s): /lib
+Running suite /lib
+x_basename.c:94:P:Core:test_x_basename:0: Passed
+x_basename.c:94:P:Core:test_x_basename:1: Passed
+x_basename.c:94:P:Core:test_x_basename:2: Passed
+x_basename.c:94:P:Core:test_x_basename:3: Passed
+x_basename.c:94:P:Core:test_x_basename:4: Passed
+x_basename.c:94:P:Core:test_x_basename:5: Passed
+x_basename.c:94:P:Core:test_x_basename:6: Passed
+100%: Checks: 7, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 7, Failures: 0, Errors: 0
+PASS x_basename (exit status: 0)

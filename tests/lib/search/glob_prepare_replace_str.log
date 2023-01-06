@@ -1,0 +1,9 @@
+Running suite(s): lib/search/glob
+Running suite lib/search/glob
+glob_prepare_replace_str.c:67:P:Core:test_glob_prepare_replace_str:0: Passed
+glob_prepare_replace_str.c:67:P:Core:test_glob_prepare_replace_str:1: Passed
+glob_prepare_replace_str.c:67:P:Core:test_glob_prepare_replace_str:2: Passed
+100%: Checks: 3, Failures: 0, Errors: 0
+Results for all suites run:
+100%: Checks: 3, Failures: 0, Errors: 0
+PASS glob_prepare_replace_str (exit status: 0)

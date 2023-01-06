@@ -1,0 +1,6 @@
+Running suite(s): /lib/utilunix
+Running suite /lib/utilunix
+
+
+fork () = -1
+PASS utilunix__my_system_fork_fail (exit status: 0)

@@ -1,0 +1,40 @@
+Description: <short summary of the patch>
+ TODO: Put a short summary on the line above and replace this paragraph
+ with a longer explanation of this change. Complete the meta-information
+ with other relevant fields (see below for details). To make it easier, the
+ information below has been extracted from the changelog. Adjust it or drop
+ it.
+ .
+ mc (3:4.8.28-1) unstable; urgency=medium
+ .
+   * New upstream release.
+   * Replaced transitional "mime-support" with "mailcap" (Closes: #991780).
+     Thanks, Thomas Uhle.
+Author: Dmitry Smirnov <onlyjob@debian.org>
+Bug-Debian: https://bugs.debian.org/991780
+
+---
+The information above should follow the Patch Tagging Guidelines, please
+checkout https://dep.debian.net/deps/dep3/ to learn about the format. Here
+are templates for supplementary fields that you might want to add:
+
+Origin: (upstream|backport|vendor|other), (<patch-url>|commit:<commit-id>)
+Bug: <upstream-bugtracker-url>
+Bug-Debian: https://bugs.debian.org/<bugnumber>
+Bug-Ubuntu: https://launchpad.net/bugs/<bugnumber>
+Forwarded: (no|not-needed|<patch-forwarded-url>)
+Applied-Upstream: <version>, (<commit-url>|commit:<commid-id>)
+Reviewed-By: <name and email of someone who approved/reviewed the patch>
+Last-Update: 2023-01-06
+
+--- mc-4.8.28.orig/src/subshell/common.c
++++ mc-4.8.28/src/subshell/common.c
+@@ -749,7 +749,7 @@ feed_subshell (int how, gboolean fail_on
+     should_read_new_subshell_prompt = FALSE;
+ 
+     /* we wait up to 1 second if fail_on_error, forever otherwise */
+-    wtime.tv_sec = 1;
++    wtime.tv_sec = 10;
+     wtime.tv_usec = 0;
+     wptr = fail_on_error ? &wtime : NULL;
+ 
